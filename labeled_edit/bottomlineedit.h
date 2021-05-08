@@ -1,4 +1,4 @@
-#ifndef BOTTOMLINEEDIT_H
+﻿#ifndef BOTTOMLINEEDIT_H
 #define BOTTOMLINEEDIT_H
 
 #include <QObject>

@@ -1,4 +1,4 @@
-#ifndef LABELEDEDIT_H
+﻿#ifndef LABELEDEDIT_H
 #define LABELEDEDIT_H
 
 #include <QObject>

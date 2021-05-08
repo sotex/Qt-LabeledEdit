@@ -1,4 +1,4 @@
-#include "bottomlineedit.h"
+﻿#include "bottomlineedit.h"
 
 BottomLineEdit::BottomLineEdit(QWidget *parent) : QLineEdit(parent)
 {

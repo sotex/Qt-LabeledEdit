@@ -1,4 +1,4 @@
-#include "labelededit.h"
+﻿#include "labelededit.h"
 
 LabeledEdit::LabeledEdit(QWidget *parent) : QWidget(parent)
 {
